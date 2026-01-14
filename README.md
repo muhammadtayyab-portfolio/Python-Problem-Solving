@@ -6,4 +6,5 @@ Welcome to my problem-solving journey! I am dedicated to improving my logic and 
 
 | Day | Project / Problem | Difficulty | Key Concepts | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | [String Manipulation](./Day-01-String-Manipulation/) | Easy | Strings, Concatenation | [View Code](https://github.com/YOUR_USERNAME/REPO_NAME/tree/main/Day-01-String-Manipulation) |
+| 01 | [String Manipulation](./Day-01-String-Manipulation/) | Easy | Strings, Concatenation | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving
+/tree/main/Day-01-String-Manipulation) |
