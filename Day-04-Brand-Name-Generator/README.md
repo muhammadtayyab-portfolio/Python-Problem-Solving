@@ -1,4 +1,4 @@
-# Day 04: Band Name Generator 🎸
+# Day 04: Brand Name Generator 🎸
 
 A simple Python program that demonstrates string manipulation and user input handling.
 
