@@ -12,3 +12,4 @@ Welcome to my problem-solving journey! I am dedicated to improving my logic and 
 | 04 | [Brand Name Generator](./Day-04-Brand-Name-Generator/) | Easy | String Concatenation | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-04-Brand-Name-Generator) |
 | 05 | [Digit Sum Calculator](./Day-05-Digit-Sum-Calculator/) | Easy | Subscripting, Type Casting | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-05-Digit-Sum-Calculator/) |
 | 06 | [Life in Weeks](./Day-06-Life-in-Weeks/) | Easy | Arithmetic, If-Condition | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-06-Life-in-Weeks/) |
+| 07 | [Odd or Even Checker](./Day-07-Odd-or-Even-Checker/) | Easy | Modulo Operator, If-Else | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-07-Odd-or-Even-Checker/) |
