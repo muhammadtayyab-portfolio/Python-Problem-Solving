@@ -14,5 +14,9 @@ Welcome to my problem-solving journey! I am dedicated to improving my logic and 
 | 06 | [Life in Weeks](./Day-06-Life-in-Weeks/) | Easy | Arithmetic, If-Condition | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-06-Life-in-Weeks/) |
 | 07 | [Odd or Even Checker](./Day-07-Odd-or-Even-Checker/) | Easy | Modulo Operator, If-Else | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-07-Odd-or-Even-Checker/) |
 | 08 | [BMI Calculator](./Day-08-BMI-Calculator/) | Easy | Elif Ladder, Math Ops | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-08-BMI-Calculator/) |
-
+| 09 | [Leap Year Checker](./Day-09-Leap-Year/) | Easy | Nested If-Else, Logic | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-09-Leap-Year/) |
+| 10 | [Pizza Order System](./Day-10-Pizza-Order/) | Medium | Multiple If-Else, Calculations | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-10-Pizza-Order/) |
+| 11 | [Love Calculator](./Day-11-Love-Calculator/) | Medium | For Loops, String Matching | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-11-Love-Calculator/) |
+| 12 | [Treasure Island](./Day-12-Treasure-Island/) | Hard | Nested Logic, User Experience | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-12-Treasure-Island/) |
+| 13 | [Rollercoaster Ticketing](./Day-13-Rollercoaster-Ticketing/) | Medium | Nested If, Logical Operators | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-13-Rollercoaster-Ticketing/) |
 
