@@ -19,4 +19,14 @@ Welcome to my problem-solving journey! I am dedicated to improving my logic and 
 | 11 | [Love Calculator](./Day-11-Love-Calculator/) | Medium | For Loops, String Matching | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-11-Love-Calculator/) |
 | 12 | [Treasure Island](./Day-12-Treasure-Island/) | Hard | Nested Logic, User Experience | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-12-Treasure-Island/) |
 | 13 | [Rollercoaster Ticketing](./Day-13-Rollercoaster-Ticketing/) | Medium | Nested If, Logical Operators | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-13-Rollercoaster-Ticketing/) |
+| 14 | [Largest of Three Numbers](./Day-14-Largest-Number/) | Easy | Conditional Comparison | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-14-Largest-Number/) |
+| 15 | [Even Digit Sum Checker](./Day-15-Even-Sum-Checker/) | Easy | String Iteration, Type Casting | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-15-Even-Sum-Checker/) |
+| 16 | [Reverse & Difference](./Day-16-Reverse-Difference/) | Medium | While Loops, Math Logic | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-16-Reverse-Difference/) |
+| 17 | [Sum Square Even/Odd](./Day-17-Sum-Square/) | Easy | Arithmetic Operators | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-17-Sum-Square/) |
+| 18 | [Dual Divisibility (2 & 3)](./Day-18-Dual-Divisibility/) | Easy | For Loops, Logical AND | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-18-Dual-Divisibility/) |
+| 19 | [First-Last Char Match](./Day-19-Char-Match/) | Easy | String Indexing | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-19-Char-Match/) |
+| 20 | [Vowel Position Finder](./Day-20-Vowel-Position/) | Medium | While Loops, Multi-Condition| [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-20-Vowel-Position/) |
+| 21 | [Palindrome Checker](./Day-21-Palindrome-Checker/) | Medium | String Reversing | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-21-Palindrome-Checker/) |
+| 22 | [First Non-Repeating Char](./Day-22-Non-Repeating-Char/) | Hard | String .count() Method | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-22-Non-Repeating-Char/) |
+| 23 | [Vowel Remover & Reverser](./Day-23-Vowel-Remover/) | Medium | Membership Operators, Reverse Iteration | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-23-Vowel-Remover/) |
 
