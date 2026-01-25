@@ -29,4 +29,5 @@ Welcome to my problem-solving journey! I am dedicated to improving my logic and 
 | 21 | [Palindrome Checker](./Day-21-Palindrome-Checker/) | Medium | String Reversing | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-21-Palindrome-Checker/) |
 | 22 | [First Non-Repeating Char](./Day-22-Non-Repeating-Char/) | Hard | String .count() Method | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-22-Non-Repeating-Char/) |
 | 23 | [Vowel Remover & Reverser](./Day-23-Vowel-Remover/) | Medium | Membership Operators, Reverse Iteration | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-23-Vowel-Remover/) |
+| 24 | [Digits Product Calculator](./Day-24-Digits-Product/) | Easy | Iteration, Multiplication Logic | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-24-Digits-Product/) |
 
