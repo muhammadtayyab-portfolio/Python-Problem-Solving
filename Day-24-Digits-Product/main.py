@@ -1,9 +1,8 @@
-# Ek number input lo aur check karo agar wo Armstrong number hai ya nahi.
-num = input("please enter the number : ")
-total = 0
+# User se number input lo aur digits ka product print karo.
+
+num = input("Please enter numbers : ")
+result = 1
 for i in num:
-    total += int(i)**len(num)
-if total == int(num):
-    print("Armstrong number hai")
-else:
-    print("Armstrong number nahi hai")
+    result *= int(i)
+
+print(result)
