@@ -34,4 +34,7 @@ Welcome to my problem-solving journey! I am dedicated to improving my logic and 
 | 26 | [Armstrong Number Checker](./Day-26-Armstrong-Checker/) | Medium | Power Operator, Loops, len()  | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-26-Armstrong-Checker/) |
 | 27 | [Prime Divisors Finder](./Day-27-Prime-Divisors/) | Hard | Nested Loops, Prime Logic | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-27-Prime-Divisors/) |
 | 28 | [Prime Square Generator](./Day-28-Prime-Squares/) | Medium | Prime Logic, Exponents | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-28-Prime-Squares/) |
+| 29 | [Character Frequency](./Day-29-Char-Frequency/) | Medium | String .count(), Formatting | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-29-Char-Frequency/) |
+| 30 | [Dual Range Divisibility](./Day-30-Range-Divisibility/) | Easy | min/max Functions, Logical OR | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-30-Range-Divisibility/) |
+| 31 | [Alternate Digit Math](./Day-31-Alternate-Math/) | Hard | While Loops, Index Jumping | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-31-Alternate-Math/) |
 
