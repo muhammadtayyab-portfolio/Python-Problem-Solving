@@ -33,4 +33,5 @@ Welcome to my problem-solving journey! I am dedicated to improving my logic and 
 | 25 | [Smallest Odd Finder](./Day-25-Smallest-Odd-Finder/) | Medium | List Iteration, Comparison  | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-25-Smallest-Odd-Finder/) |
 | 26 | [Armstrong Number Checker](./Day-26-Armstrong-Checker/) | Medium | Power Operator, Loops, len()  | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-26-Armstrong-Checker/) |
 | 27 | [Prime Divisors Finder](./Day-27-Prime-Divisors/) | Hard | Nested Loops, Prime Logic | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-27-Prime-Divisors/) |
+| 28 | [Prime Square Generator](./Day-28-Prime-Squares/) | Medium | Prime Logic, Exponents | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-28-Prime-Squares/) |
 
