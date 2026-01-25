@@ -31,4 +31,5 @@ Welcome to my problem-solving journey! I am dedicated to improving my logic and 
 | 23 | [Vowel Remover & Reverser](./Day-23-Vowel-Remover/) | Medium | Membership Operators, Reverse Iteration | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-23-Vowel-Remover/) |
 | 24 | [Digits Product Calculator](./Day-24-Digits-Product/) | Easy | Iteration, Multiplication Logic | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-24-Digits-Product/) |
 | 25 | [Smallest Odd Finder](./Day-25-Smallest-Odd-Finder/) | Medium | List Iteration, Comparison  | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-25-Smallest-Odd-Finder/) |
+| 26 | [Armstrong Number Checker](./Day-26-Armstrong-Checker/) | Medium | Power Operator, Loops, len()  | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-26-Armstrong-Checker/) |
 
