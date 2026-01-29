@@ -40,4 +40,5 @@ Welcome to my problem-solving journey! I am dedicated to improving my logic and 
 | 32 | [Paint Area Calculator](./Day-32-Paint-Calculator/) | Easy | Functions, math.ceil() | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-32-Paint-Calculator/) |
 | 33 | [Prime Checker (Func)](./Day-33-Prime-Checker-Function/) | Medium | Functions, While Loops | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-33-Prime-Checker-Function/) |
 | 34 | [Hangman Lite Game](./Day-34-Hangman-Game/) | Hard | random, while Loops, Lists | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-34-Hangman-Game/) |
+| 35 | [Heads or Tails Toss](./Day-35-Toss-Game/) | Easy | random.randint, Logic | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-35-Toss-Game/) |
 
