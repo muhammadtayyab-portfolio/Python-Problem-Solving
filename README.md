@@ -41,4 +41,12 @@ Welcome to my problem-solving journey! I am dedicated to improving my logic and 
 | 33 | [Prime Checker (Func)](./Day-33-Prime-Checker-Function/) | Medium | Functions, While Loops | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-33-Prime-Checker-Function/) |
 | 34 | [Hangman Lite Game](./Day-34-Hangman-Game/) | Hard | random, while Loops, Lists | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-34-Hangman-Game/) |
 | 35 | [Heads or Tails Toss](./Day-35-Toss-Game/) | Easy | random.randint, Logic | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-35-Toss-Game/) |
+| 36 | [Banker Roulette](./Day-36-Banker-Roulette/) | Easy | .split(), Random list indexing | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-36-Banker-Roulette/) |
+| 37 | [Treasure Map](./Day-37-Treasure-Map/) | Medium | 2D Lists, Coordinate system | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-37-Treasure-Map/) |
+| 38 | [Rock Paper Scissors](./Day-38-Rock-Paper-Scissors/) | Medium | Logical operators, CPU moves | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-38-Rock-Paper-Scissors/) |
+| 39 | [Class Statistics](./Day-39-Class-Stats/) | Easy | Manual loops, Average & Max logic | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-39-Class-Stats/)
+| 40 | [Logic Exercises](./Day-40-Loop-Challenges/) | Easy | Modulo logic, FizzBuzz | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-40-Loop-Challenges/)
+| 41 | [Advanced Password](./Day-41-Password-Generator/) | Hard | pop(), Shuffling algorithm | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-41-Password-Generator/)
+
+
 
