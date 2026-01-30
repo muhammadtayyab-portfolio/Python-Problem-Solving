@@ -47,6 +47,14 @@ Welcome to my problem-solving journey! I am dedicated to improving my logic and 
 | 39 | [Class Statistics](./Day-39-Class-Stats/) | Easy | Manual loops, Average & Max logic | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-39-Class-Stats/)
 | 40 | [Logic Exercises](./Day-40-Loop-Challenges/) | Easy | Modulo logic, FizzBuzz | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-40-Loop-Challenges/)
 | 41 | [Advanced Password](./Day-41-Password-Generator/) | Hard | pop(), Shuffling algorithm | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-41-Password-Generator/)
-
-
+| 42 | [Word Frequency Counter](./Day-42-Word-Frequency/) | Medium | Strings, .count(), Lists | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-42-Word-Frequency/)
+| 43 | [Second Largest Finder](./Day-43-Second-Largest/) | Medium | List Methods, max() | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-43-Second-Largest/)
+| 44 | [Duplicate Remover](./Day-44-Duplicate-Remover/) | Easy | Membership Testing (in) | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-44-Duplicate-Remover/)
+| 45 | [List Rotation](./Day-45-List-Rotation/) | Hard | Slicing, Modulo Logic | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-45-List-Rotation/)
+| 46 | [Character Analytics](./Day-46-Char-Analytics/) | Medium | .isupper(), .isdigit() | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-46-Char-Analytics/)
+| 47 | [Word Reverser](./Day-47-Word-Reverser/) | Medium | Nested Loops, Range slicing | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-47-Word-Reverser/)
+| 48 | [Anagram Checker](./Day-48-Anagram-Checker/) | Medium | sorted(), String Cleaning | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-48-Anagram-Checker/)
+| 49 | [Missing Number Finder](./Day-49-Missing-Number/) | Hard | Math Formula, Summation | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-49-Missing-Number/)
+| 50 | [Unique Word Count](./Day-50-Unique-Words/) | Easy | Python set(), Case Handling | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-50-Unique-Words/)
+| 51 | [Matrix Transpose](./Day-51-Matrix-Transpose/) | Hard | 2D Lists, Nested Iteration | [View Code](https://github.com/muhammadtayyab-portfolio/Python-Problem-Solving/tree/main/Day-51-Matrix-Transpose/)
 
